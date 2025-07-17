@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1F0C8DE5-9322-4C30-A08D-0C5C6A579CFC",
+    "name": "Netflix",
+    "category": "entertainment",
+    "monthlyCost": 45.99,
+    "createdAt": "2024-10-10T10:00:00Z",
+    "platform": "iOS",
+    "renewalDate": "2024-11-10T10:00:00Z"
+  },
+  {
+    "id": "CA81AB46-7B0D-404F-81D4-C2E3A6C8AC1E",
+    "name": "Spotify",
+    "category": "entertainment",
+    "monthlyCost": 19.99,
+    "createdAt": "2024-07-01T12:00:00Z",
+    "platform": "Android",
+    "renewalDate": "2024-08-01T12:00:00Z"
+  },
+  {
+    "id": "CDB06E83-C90F-4F7A-8E38-47D4C9B7A5D2",
+    "name": "iCloud",
+    "category": "cloud",
+    "monthlyCost": 9.99,
+    "createdAt": "2024-05-20T08:30:00Z",
+    "provider": "Apple",
+    "storageGB": 200
+  },
+  {
+    "id": "D37BB7DE-1014-4996-9613-42D9266CE48C",
+    "name": "OneDrive",
+    "category": "cloud",
+    "monthlyCost": 12.49,
+    "createdAt": "2024-03-15T09:45:00Z",
+    "provider": "Microsoft",
+    "storageGB": 1000
+  },
+  {
+    "id": "AAD3894E-552D-48B0-8BA5-9F02D6E63337",
+    "name": "GymPass",
+    "category": "fitness",
+    "monthlyCost": 89.00,
+    "createdAt": "2024-06-05T14:00:00Z",
+    "planType": "Premium",
+    "paymentFrequency": "Miesięczny",
+    "gymName": "Xtreme Fitness"
+  }
+]
